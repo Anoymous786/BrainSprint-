@@ -1,4 +1,4 @@
-# BrainSprint 🧠⚡
+# BrainSprint (BY Utkarsh Singh)
 
 **BrainSprint** is a fast-paced, interactive quiz platform that challenges users on a variety of topics to sharpen their knowledge and reaction time. 
 Designed with a sleek UI and real-time feedback, BrainSprint is ideal for students, trivia lovers, and competitive learners.
